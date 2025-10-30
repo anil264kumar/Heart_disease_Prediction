@@ -1,8 +1,10 @@
 /Dataset
 decision_tree_model.pkl  
 logistic_rg_model.pkl    
-svm_model.pkl
-cvd_prediction_model.ipynb  
-random_forest_model.pkl  
+cvd_prediction_model.ipynb   
 cvd_prediction_model.py     
-knn_model.pkl            
+knn_model.pkl  
+test.csv
+test_app.py
+testapp.py
+Final_metrics.csv          
